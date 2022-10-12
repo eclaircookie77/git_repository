@@ -1,0 +1,27 @@
+{
+"customer_list":
+[
+	{
+	"customer_id": "C00003", 
+	"level": 1,  
+	"name": "홍길동",  
+	"birthday": "1976-03-15T15:00:00.000+00:00", 
+	"zipcode": "01100",  
+	"addr": "서울시 금천구 가산디지털1로 146", 
+	"telnum": "0312222222",  
+	"phonenum": "01099999999", 
+	"email": null  
+	},
+	{
+	"customer_id": "C00007", 
+	"level": 1,  
+	"name": "박종승",  
+	"birthday": "1980-09-21T15:00:00.000+00:00", 
+	"zipcode": "01100",  
+	"addr": "서울시 금천구 가산디지털1로 145", 
+	"telnum": "03111113333",  
+	"phonenum": "01095720921", 
+	"email": null  
+	}
+]
+}
