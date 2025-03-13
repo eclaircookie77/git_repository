@@ -1,26 +1,27 @@
 {
     "fruits": [
-      {
+       {
         "id": 1,
-        "name": "가시오이",
-        "code": "20602",
-        "price": "3,000"
-      },
-      {
-        "id": 2,
         "name": "가지",
         "code": "20801",
         "price": {
             "oneszie": {
                 "toptier": {
+                    "tiername": "",
+                    "lowprice": "",
+                    "topprice": "",
+                    "avgprice": "",
+                    "change": "" 
+                },
+                "higtier": {
                     "tiername": "8kg 상",
-                    "lowprice": "27,000",
-                    "topprice": "35,000",
-                    "avgprice": "30,395",
-                    "change": "5% 하락" 
+                    "lowprice": "24,000",
+                    "topprice": "27,500",
+                    "avgprice": "22,818",
+                    "change": "9% 하락" 
                 },
                 "midtier": {
-                    "tiername": "8kg 중",
+                    "tiername": "8kg 보통",
                     "lowprice": "24,000",
                     "topprice": "27,500",
                     "avgprice": "22,818",
@@ -32,6 +33,43 @@
                     "topprice": "24,000",
                     "avgprice": "21,324",
                     "change": "8% 하락" 
+                }
+            }         
+        }
+      },
+      {
+        "id": 2,
+        "name": "당근",
+        "code": "18501",
+        "price": {
+            "oneszie": {
+                "toptier": {
+                    "tiername": "20kg 특",
+                    "lowprice": "65,000",
+                    "topprice": "67,000",
+                    "avgprice": "66,423",
+                    "change": "2% 하락" 
+                },
+                "higtier": {
+                    "tiername": "20kg 상",
+                    "lowprice": "58,000",
+                    "topprice": "65,000",
+                    "avgprice": "60,852",
+                    "change": "1% 상승" 
+                },
+                "midtier": {
+                    "tiername": "20kg 보통",
+                    "lowprice": "50,000",
+                    "topprice": "58,000",
+                    "avgprice": "52,945",
+                    "change": "1% 상승" 
+                },
+                "lowtier": {
+                    "tiername": "20kg 하",
+                    "lowprice": "40,000",
+                    "topprice": "50,000",
+                    "avgprice": "48,195",
+                    "change": "3% 상승" 
                 }
             }         
         }
