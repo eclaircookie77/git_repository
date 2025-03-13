@@ -1,27 +1,16 @@
 {
-"customer_list":
-[
-	{
-	"customer_id": "C00003", 
-	"level": 1,  
-	"name": "홍길동",  
-	"birthday": "1976-03-15T15:00:00.000+00:00", 
-	"zipcode": "01199",  
-	"addr": "서울시 금천구 가산디지털1로", 
-	"telnum": "03122224444",  
-	"phonenum": "01095720921", 
-	"email": null  
-	},
-	{
-	"customer_id": "C00007", 
-	"level": 1,  
-	"name": "아무개",  
-	"birthday": "1980-12-25T15:00:00.000+00:00", 
-	"zipcode": "01199",  
-	"addr": "서울시 금천구 가산디지털1로", 
-	"telnum": "03111113333",  
-	"phonenum": "01011113333", 
-	"email": null  
-	}
-]
+  "fruits": [
+    {
+      "id": 1,
+      "name": "가시오이",
+      "code": "20602",
+      "price": "3,000"
+    },
+    {
+      "id": 2,
+      "text": "가지",
+      "done": "20801",
+      "price": "5,000"
+    }
+  ]
 }
