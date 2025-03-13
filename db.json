@@ -1,5 +1,12 @@
-[
-    {
+{
+    "fruits": [
+      {
+        "id": 1,
+        "name": "가시오이",
+        "code": "20602",
+        "price": "3,000"
+      },
+      {
         "id": 2,
         "name": "가지",
         "code": "20801",
@@ -10,46 +17,24 @@
                     "lowprice": "27,000",
                     "topprice": "35,000",
                     "avgprice": "30,395",
-                    "change": "5% 하락"
+                    "change": "5% 하락" 
                 },
                 "midtier": {
                     "tiername": "8kg 중",
                     "lowprice": "24,000",
                     "topprice": "27,500",
                     "avgprice": "22,818",
-                    "change": "9% 하락"
+                    "change": "9% 하락" 
                 },
                 "lowtier": {
                     "tiername": "8kg 하",
                     "lowprice": "10,000",
                     "topprice": "24,000",
                     "avgprice": "21,324",
-                    "change": "8% 하락"
+                    "change": "8% 하락" 
                 }
-            },
-            "twoszie": {
-                "toptier": {
-                    "tiername": "5kg 상",
-                    "lowprice": "21,000",
-                    "topprice": "26,000",
-                    "avgprice": "22,818",
-                    "change": "6% 하락"
-                },
-                "midtier": {
-                    "tiername": "5kg 중",
-                    "lowprice": "18,500",
-                    "topprice": "21,000",
-                    "avgprice": "19,635",
-                    "change": "10% 하락"
-                },
-                "lowtier": {
-                    "tiername": "5kg 하",
-                    "lowprice": "5,500",
-                    "topprice": "18,500",
-                    "avgprice": "15,502",
-                    "change": "12% 하락"
-                }
-            }
+            }         
         }
-    }
-]
+      }
+    ]
+  }
