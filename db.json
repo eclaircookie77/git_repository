@@ -1,5 +1,4 @@
-{
-    "customerId": [
+customerId: [
         {
             "id": "1234",
             "cid": "0A9eJgjzRGe0pgOiPrZS9w",
@@ -8,5 +7,3 @@
         }
     ]   
     
-}
-
