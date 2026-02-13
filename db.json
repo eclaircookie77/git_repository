@@ -2,9 +2,28 @@
 "customerId": [
         {
             "id": "1234",
-            "cid": "0A9eJgjzRGe0pgOiPrZS9w",
-            "name": "아리시스",
-            "address": "서울특별시 금천구 가산디지털1로 145 에이스하이엔드타워 3차 1102호"
+            "subscription": "골드",
+            "price" : "15000",
+            "expire": "2026년 6월 17일"
+        },
+        {
+            "id": "2468",
+            "subscription": "실버",
+            "price" : "10000",
+            "expire": "2026년 5월 3일"
+        },
+        {
+            "id": "1357",
+            "subscription": "베이직",
+            "price" : "5000",
+            "expire": "2026년 8월 23일"
+        },
+        {
+            "id": "1004",
+            "subscription": "플래티넘",
+            "price" : "20000",
+            "expire": "2026년 11월 9일"
         }
     ]   
 }
+
